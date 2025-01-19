@@ -59,7 +59,7 @@ This project predicts whether two questions on Quora are semantically similar. T
 ## 🧩 Results
 - **Model Accuracy**: 85%
 - **ROC-AUC Score**: 0.89
-- The model successfully predicts duplicate questions, helping Quora improve user experience by reducing duplicate content.
+- The model successfully predicts duplicate questions
 
 ---
 
@@ -67,7 +67,7 @@ This project predicts whether two questions on Quora are semantically similar. T
 Below are some insights and visualizations generated during the analysis:
 
 1. Distribution of duplicate vs. non-duplicate questions:
-   ![Duplicate Questions Distribution](duplicate-ratio.png)
+   - ![Duplicate Questions Distribution](duplicate-ratio.png)
 
 
 2. Logg-Loss Confusion-Matrix for duplicate vs. non-duplicate pairs:
